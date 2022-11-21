@@ -1,0 +1,22 @@
+/* @import url("https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap"); */
+
+/* NORMALIZATION */
+html {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-size: calc(16px + 0.0396vw);
+}
+
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+
+body {
+    font-family: "Outfit", sans-serif;
+    box-sizing: inherit;
+}
